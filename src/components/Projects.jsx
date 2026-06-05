@@ -78,7 +78,7 @@ export default function Projects() {
               className="p-5 bg-zinc-950 hover:bg-zinc-900 transition-colors duration-200 flex flex-col gap-2"
             >
               <div className="flex items-start justify-between gap-2">
-                <h3 className="text-sm font-mono font-medium break-words">
+                <h3 className="text-sm font-mono font-medium break-word">
                   {repo.name}
                 </h3>
 
