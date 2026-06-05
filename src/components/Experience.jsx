@@ -1,4 +1,4 @@
-import TeachIcon from "./Teach-icon";
+import TeachIcon from "./Teach-icon.jsx";
 export default function Experience() {
   return (
     <section id="experience" className="py-14 border-b border-zinc-800 text-white">

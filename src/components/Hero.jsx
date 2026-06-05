@@ -1,4 +1,4 @@
-import Button from '../components/Button'
+import Button from '../components/Button.jsx'
 export default function Hero() {
   return (
     <section id="Hero" className="py-20 border-b border-white/8">

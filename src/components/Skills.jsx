@@ -1,12 +1,12 @@
-import canvaLogo from "./Canva";
-import figmaLogo from "./Figma";
-import Capcut from "./Capcut";
-import Tailwind from "./tailwind";
-import React from "./react";
-import Js from "./js";
-import Node from "./node";
-import Html from "./html";
-import Css from "./css";
+import canvaLogo from "./Canva.jsx";
+import figmaLogo from "./Figma.jsx";
+import Capcut from "./Capcut.jsx";
+import Tailwind from "./tailwind.jsx";
+import React from "./react.jsx";
+import Js from "./js.jsx";
+import Node from "./node.jsx";
+import Html from "./html.jsx";
+import Css from "./css.jsx";
 
 const skills = [
   { icon: React(), name: 'React JS', level: 'Advanced' },

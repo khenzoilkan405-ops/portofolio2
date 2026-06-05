@@ -1,11 +1,11 @@
-import Navbar from '../components/Navbar'
-import Hero from '../components/Hero'
-import About from '../components/About'
-import Skills from '../components/Skills'
-import Projects from '../components/Projects'
-import Experience from '../components/Experience'
-import Contact from '../components/Contact'
-import Footer from '../components/Footer'
+import Navbar from '../components/Navbar.jsx'
+import Hero from '../components/Hero.jsx'
+import About from '../components/About.jsx'
+import Skills from '../components/Skills.jsx'
+import Projects from '../components/Projects.jsx'
+import Experience from '../components/Experience.jsx'
+import Contact from '../components/Contact.jsx'
+import Footer from '../components/Footer.jsx'
 
 export default function App() {
   return (

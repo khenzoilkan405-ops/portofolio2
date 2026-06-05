@@ -1,4 +1,4 @@
-import Logo from "./logo"
+import Logo from "./logo.jsx"
 
 export default function Navbar() {
   const links = ['About', 'Skills', 'Projects', 'Experience', 'Contact',]
