@@ -1,4 +1,4 @@
-import Logos from '../assets/Logo.png';
+
 
 export default function Logo() {
   return (
