@@ -1,4 +1,4 @@
-import Logo from "./logo.jsx"
+import Logos from "./logo.jsx"
 
 export default function Navbar() {
   const links = ['About', 'Skills', 'Projects', 'Experience', 'Contact',]
@@ -7,7 +7,7 @@ export default function Navbar() {
    <nav className="flex justify-between items-center py-5 border-b border-white/8 sticky top-0 bg-[#0a0a0a]/90 backdrop-blur-md z-50 ">
       <div className="flex items-center gap-2">
         <a href="#Hero" className="flex items-center gap-2 no-underline">
-      <Logo/>
+      <Logos/>
       <span className="text-sm font-medium tracking-widest">Khenzo.dev </span>
     </a>
       </div>
