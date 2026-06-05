@@ -1,4 +1,4 @@
-export default function button({ children, onClick, variant = 'primary' }) {
+export default function Button({ children, onClick, variant = 'primary' }) {
   const baseClasses = 'px-5 py-2.5 text-[13px] font-medium rounded-md transition-all'
   const variants = {
     primary: 'bg-[#f0f0f0] text-black hover:opacity-85',
